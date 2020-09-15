@@ -1,0 +1,11 @@
+C:\Users\Ervis Trupja\source\repos\IdentityCore\Identity.API\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Ervis Trupja\source\repos\IdentityCore\Identity.API\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Ervis Trupja\source\repos\IdentityCore\Identity.API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Ervis Trupja\source\repos\IdentityCore\Identity.API\bin\Debug\netcoreapp3.0\Identity.API.exe
+C:\Users\Ervis Trupja\source\repos\IdentityCore\Identity.API\obj\Debug\netcoreapp3.0\Identity.API.csprojAssemblyReference.cache
+C:\Users\Ervis Trupja\source\repos\IdentityCore\Identity.API\obj\Debug\netcoreapp3.0\staticwebassets\Identity.API.StaticWebAssets.Manifest.cache
+C:\Users\Ervis Trupja\source\repos\IdentityCore\Identity.API\obj\Debug\netcoreapp3.0\staticwebassets\Identity.API.StaticWebAssets.xml
+C:\Users\Ervis Trupja\source\repos\IdentityCore\Identity.API\obj\Debug\netcoreapp3.0\Identity.API.csproj.CoreCompileInputs.cache
+C:\Users\Ervis Trupja\source\repos\IdentityCore\Identity.API\obj\Debug\netcoreapp3.0\Identity.API.AssemblyInfoInputs.cache
+C:\Users\Ervis Trupja\source\repos\IdentityCore\Identity.API\obj\Debug\netcoreapp3.0\Identity.API.AssemblyInfo.cs
+C:\Users\Ervis Trupja\source\repos\IdentityCore\Identity.API\obj\Debug\netcoreapp3.0\Identity.API.RazorTargetAssemblyInfo.cache
